@@ -1,0 +1,15 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# 環境ファイル・秘密鍵
+accounts.json
+.env
+
+# VSCode / Jupyter用
+.vscode/
+.ipynb_checkpoints/
+
+# OSごとのゴミ
+.DS_Store
+Thumbs.db
