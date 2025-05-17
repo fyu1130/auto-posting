@@ -1,6 +1,7 @@
 # X Auto Poster - Standalone Version
 
 このアプリはローカル環境で X（旧 Twitter）に毎日決まった時間に自動投稿するスタンドアローン型システムです。
+OS：WSL2 + Ubuntu 22.04.3 LTS
 
 ## 機能
 
